@@ -16,9 +16,9 @@
 
 # Table of Contents
 
-1. [Getting Started with CoWoS](https://github.com/mikeroyal/CoWoS-Guide#gettin-started-with-CoWoS)
+1. [Getting Started with CoWoS](https://github.com/mikeroyal/CoWoS-Guide#getting-started-with-CoWoS)
 
-2. [FPGA Development](https://github.com/mikeroyal/CoWoS-Guide#fgpa-development)
+2. [FPGA Development](https://github.com/mikeroyal/CoWoS-Guide#fpga-development)
 
 3. [LLVM Development](https://github.com/mikeroyal/CoWoS-Guide#llvm-development)
 
